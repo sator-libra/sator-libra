@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ... I can read French a little (je peux lire francais un peu)
 
 My TryHackMe account<br>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3646790" style='border:none;'></iframe>
 <img src="https://tryhackme-badges.s3.amazonaws.com/johan.f.png" alt="Your Image Badge" />
 
 <!---
